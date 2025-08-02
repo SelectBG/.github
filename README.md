@@ -1,17 +1,17 @@
 # SelectBG.net EOOD
 
-**SelectBG.net EOOD** е водеща агенция за недвижими имоти във Велико Търново, България. Ние предлагаме професионални услуги при покупко-продажба, наем и управление на недвижима собственост. Нашият екип от опитни агенти е посветен на това да осигури на клиентите си най-доброто обслужване и да ги подпомогне във всяка стъпка от процеса.
+**SelectBG.net EOOD** is a leading real estate agency in Veliko Tarnovo, Bulgaria. We offer professional services in property sales, rentals, and management. Our team of experienced agents is dedicated to providing clients with the best possible service and assisting them every step of the way.
 
 ---
 
-### Нашите проекти
+### Our Projects
 
-В това GitHub пространство ще откриете нашите софтуерни проекти, включително официалния ни уебсайт, лендинг страници и други дигитални инструменти, които използваме за подобряване на нашите услуги.
+In this GitHub space, you will find our software projects, including our official website, landing pages, and other digital tools we use to enhance our services.
 
 ---
 
-### Връзка с нас
+### Contact Us
 
-* **Уебсайт:** [https://www.selectbg.net/](https://www.selectbg.net/)
-* **Имейл:** [office@selectbg.net](mailto:office@selectbg.net)
-* **Телефон:** +359 893 382 367
+* **Website:** [https://www.selectbg.net/](https://www.selectbg.net/)
+* **Email:** [office@selectbg.net](mailto:office@selectbg.net)
+* **Phone:** +359 893 382 367
